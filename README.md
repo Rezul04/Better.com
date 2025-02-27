@@ -2,7 +2,7 @@
 React application that recreates the Better.com website with the four requested pages and proper routing.
 
 ## Better.com Website Clone - Complete
-
+Link - https://better-replica-jnfrty.vercel.app/
 
 ### Pages Implemented->
 
@@ -14,6 +14,8 @@ React application that recreates the Better.com website with the four requested 
 4. Testimonials from customers
 5. Final CTA section
 
+![image](https://github.com/user-attachments/assets/59fbab05-5272-4b5f-a572-c7b7003cd164)
+
 
 
 ### **About Us Page** (`/about-us`)
@@ -24,6 +26,9 @@ React application that recreates the Better.com website with the four requested 
 4. Press recognition section
 5. Careers CTA
 
+![image](https://github.com/user-attachments/assets/b7bc0091-d3b8-44f6-9c51-06816764980d)
+
+
 
 
 ### **Mortgage Calculator Page** (`/mortgage-calculator`)
@@ -33,6 +38,8 @@ React application that recreates the Better.com website with the four requested 
 3. Detailed payment breakdown
 4. Tabs for purchase vs refinance
 5. FAQ section
+
+![image](https://github.com/user-attachments/assets/0bf433a7-3ef1-44e7-abb2-9698d51d061d)
 
 
 
@@ -45,6 +52,7 @@ React application that recreates the Better.com website with the four requested 
 5. Account creation step
 6. Final rates display
 
+![image](https://github.com/user-attachments/assets/cd31e59d-50d8-460d-ab81-2df88457364e)
 
 
 

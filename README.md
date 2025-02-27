@@ -4,9 +4,9 @@ React application that recreates the Better.com website with the four requested 
 ## Better.com Website Clone - Complete
 
 
-### Pages Implemented
+### Pages Implemented->
 
-1. **Home Page** (`/`)
+### **Home Page** (`/`)
 
 1. Hero section with call-to-action buttons
 2. Features section highlighting Better's advantages
@@ -16,7 +16,7 @@ React application that recreates the Better.com website with the four requested 
 
 
 
-2. **About Us Page** (`/about-us`)
+### **About Us Page** (`/about-us`)
 
 1. Hero banner with mission statement
 2. Company mission and values sections
@@ -26,7 +26,7 @@ React application that recreates the Better.com website with the four requested 
 
 
 
-3. **Mortgage Calculator Page** (`/mortgage-calculator`)
+### **Mortgage Calculator Page** (`/mortgage-calculator`)
 
 1. Interactive calculator with real-time updates
 2. Adjustable sliders for home price, down payment, interest rate
@@ -36,7 +36,7 @@ React application that recreates the Better.com website with the four requested 
 
 
 
-4. **Start Page** (`/start`)
+### **Start Page** (`/start`)
 
 1. Multi-step application process
 2. Progress indicator
